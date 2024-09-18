@@ -1,2 +1,2 @@
-# r-lang
+# R-lang
 Learning R
