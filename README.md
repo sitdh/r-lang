@@ -1,2 +1,3 @@
 # R-lang
-Learning R
+
+Learning R language
